@@ -1,0 +1,16 @@
+Libraries used
+
+//gets system permission 
+compile 'com.github.karanchuri:PermissionManager:0.1.0'
+    
+//views imageview in circle 	
+compile 'de.hdodenhof:circleimageview:2.2.0'
+
+
+I have not used any sections of code from open source projects on Github. But I refered sites to learn.
+ 
+1. developer.android.com
+2. stackoverflow
+3. androidhive.com 
+
+... are the sites I visited frequently to learn.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#F44336</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="col">#443a3b3d</color>
+    <color name="state1">#F44336</color>
+    <color name="bg">#c1bdbd</color>
+</resources>
